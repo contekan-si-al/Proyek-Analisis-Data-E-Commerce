@@ -30,7 +30,7 @@ Tujuannya adalah untuk menghasilkan *insight* yang berguna dari data yang dianal
    pip install -r requirements.txt
    ```
 
-#### Penggunaan
+#### Menggunakan Streamlit
 
 1. Masuk ke direktori proyek (Local):
 
@@ -39,4 +39,4 @@ Tujuannya adalah untuk menghasilkan *insight* yang berguna dari data yang dianal
    streamlit run dashboard.py
    ```
 
-   Atau bisa dengan kunjungi halaman ini [Olist E-Commerce Dashboard](https://proyek-data-olshop1.streamlit.app/)
+   Bisa juga dengan mengunjungi halaman ini [Olist E-Commerce Dashboard](https://proyek-data-olshop1.streamlit.app/)
