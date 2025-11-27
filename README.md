@@ -36,7 +36,7 @@ Tujuannya adalah untuk menghasilkan *insight* yang berguna dari data yang dianal
 
    ```bash
    cd Proyek-Analisis-Data-E-Commerce/dashboard
-   streamlit run dashboard.py
+   streamlit run streamlit.py
    ```
 
-   Bisa juga dengan mengunjungi halaman ini [Olist E-Commerce Dashboard](https://proyek-data-olshop1.streamlit.app/)
+   Bisa juga dengan mengunjungi halaman ini [Olist E-Commerce Dashboard](https://al-andat-ecommerce.streamlit.app/)
