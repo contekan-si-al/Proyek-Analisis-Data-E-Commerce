@@ -23,7 +23,11 @@ Tujuannya adalah untuk menghasilkan *insight* yang berguna dari data yang dianal
    git clone https://github.com/contekan-si-al/Proyek-Analisis-Data-E-Commerce.git   
    ```
 
-2. Pastikan kamu punya lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Kamu dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
+2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api dengan cara sebagai berikut :
+   
+   [Kaggle Installation and API configuration](https://github.com/Kaggle/kaggle-api)
+   
+3. Pastikan kamu punya lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Kamu dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
 
    ```bash
    cd Proyek-Analisis-Data-E-Commerce
