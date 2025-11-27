@@ -7,6 +7,5 @@ scikit-learn
 seaborn
 shap
 urllib3
-json
 geopy
 nbformat
